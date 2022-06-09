@@ -1,8 +1,6 @@
 # CS188-Project-2
 
-##Descriotion
-
-
+## Description
 Project 2 for the ECE188 course Spring 22.
 
 The project has two parts:
